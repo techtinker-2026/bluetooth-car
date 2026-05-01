@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial BT(10, 11); // RX is not used , TX
+SoftwareSerial BT(10, 11); // TX is only needed because arduino is not seding data's back to phone
 
 char data;
 int speedValue = 150; // default speed (0–255)
