@@ -8,7 +8,7 @@ This project shows how to build a Bluetooth-controlled Arduino car.
 * HC-05 Bluetooth Module
 * L298N Motor Driver
 * DC Motors
-* 18650 Battery
+* 2x18650 Battery
 
 ## 📂 Files
 
