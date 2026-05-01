@@ -21,4 +21,4 @@ Use any Bluetooth controller app from Play Store.
 
 ## 📺 YouTube Video
 
-(put your video link here)
+(https://youtu.be/Qd6d8mr-ei0)
