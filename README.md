@@ -22,3 +22,7 @@ Use any Bluetooth controller app from Play Store.
 ## 📺 YouTube Video
 
 (https://youtu.be/Qd6d8mr-ei0)
+
+## 📚 Install Library
+
+(standard Arduino library install procedure)
