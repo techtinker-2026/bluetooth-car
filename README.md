@@ -1,4 +1,3 @@
-# bluetooth-car
 # Bluetooth Arduino Car 🚗
 
 This project shows how to build a Bluetooth-controlled Arduino car.
